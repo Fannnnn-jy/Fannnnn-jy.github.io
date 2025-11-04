@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Fannnnn-jy.github.ioblank/sitemap.xml
+Sitemap: https://alshedivat.github.io/Fannnnn-jy.github.io/sitemap.xml
